@@ -1,1 +1,1 @@
-# Netflic_Clone
+# Netflix_Clone
